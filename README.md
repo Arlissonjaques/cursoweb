@@ -1,2 +1,2 @@
-# cursoweb
-Projetos feitos durante um curso de web
+# Progetos-curso-web
+Projetos feitos durante curso de desenvolvimento web.
